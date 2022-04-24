@@ -1,0 +1,40 @@
+
+h1{
+	 font-size: 60px;
+    color:  red;
+	text-align: center;
+	text-shadow: 2px 2px 2px white; 
+}
+.p{
+    font-size:60px;
+    color:  black;
+	text-align: center;
+	text-shadow: 2px 2px 2px white; 
+	
+}
+p{
+	font-size: 25px; 
+	font-style: italic;
+	color: white;
+	text-align: center;
+}
+body{
+	background-color: blue;
+}
+img{
+	 width:30%;
+  	height: auto;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+}
+
+.cor1{
+	color:yellow;
+}
+.cor2{
+	color:red;
+}
+.cor3{
+	color:purple;
+}
